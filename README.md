@@ -16,4 +16,6 @@ LoRa 1276 v2.0 demands : Rx - 10mA, Tx - 120mA
 Arduno Nano supply to I/O pins 40mA max. 
 Above two statement can justify.
 # LoRa with Arduino Uno
+LoRa is compatible with Arduino Uno as transceiver.
+
 
